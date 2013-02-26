@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://paulkearney.github.com/sitemap.xml 
